@@ -1,0 +1,96 @@
+
+.divContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 2%;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    font-family: monospace;
+  }
+  
+  
+  
+  .cont2{
+    padding: 8%;
+    background-color: rgb(1, 6, 19);
+    height: 32vh;
+    margin-top: 10%;
+  }
+
+  .cont2 small{
+    color: forestgreen;
+    font-size: 12px;
+  }
+  
+  .dados{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30%;
+  }
+  
+  .dados img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; 
+    
+  } 
+  
+  .dados a{
+   text-decoration: none;
+    color: #fff;
+  } 
+  
+  
+  .dados h3{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; 
+    text-align: center;
+    font-size: 12px;
+    margin-top: 6%;
+  }  
+  
+  .geral h1{
+    color: #fff ;
+    text-align: center;
+    font-family: monospace;
+    margin-top: 3%;
+  }
+  
+  .divPlayer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-top: 5%;
+    opacity: 0.3;
+  }
+
+  .sobre{
+    border: solid 3px #6c6d6e;
+    width: 90%;
+    margin-top: 2%;
+    opacity: 0.5;
+    border-radius: 2px;
+    padding: 5px;
+  } 
+
+  
+  .sobre textarea{
+    border: none;
+    width: 100%;
+    height: 90px;
+    padding: 5px;
+  } 
+
+.divSmall{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
