@@ -23,10 +23,10 @@ yarn-debug.log*
 yarn-error.log*
 
 #componentes
-/src/Cadastrar
+/src/Pages/Cadastrar
 /src/img
 /src/componentes/Data
 
 #conection
-/src/firebaseConnection.js
+/src/firebaseConnection.jsx
 
