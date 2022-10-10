@@ -81,7 +81,7 @@ const Cadastrar = () => {
   return (
     <div className='cadastrarConteiner'>
         <section className='cadastrar'>
-          <h1>Novo Participante</h1>
+          <h1>Novo User</h1>
               <span>Nome:</span>
               <input 
                 value={nome}

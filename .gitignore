@@ -23,7 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 #componentes
-/src/Pages/Cadastrar
+/src/Pages/Cadastrar/Cadastrar.jsx
 /src/img
 /src/componentes/Data
 

@@ -19,4 +19,6 @@ if (!firebase.apps.length) {
     firebase.initializeApp(firebaseConfig);
 }
 
+// banco
+
 export default firebase;
