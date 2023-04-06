@@ -1,4 +1,4 @@
- # Ranking of Thrones <br> 
+ # Ranking of Thrones "Versão Mobile" <br> 
 
 <p align="center">
  📝 Descrição <br> 
